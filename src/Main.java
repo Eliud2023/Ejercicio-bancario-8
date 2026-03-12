@@ -2,9 +2,7 @@
 empezando a usar MÉTODOS,
 y también se recorrieron*/
 
-// Estoy haciendo mis primeras pruebas con Github
-// Comentario 2
-// Comentario 3
+// Estoy haciendo mis primeras pruebas con Github.
 
 import java.util.Scanner;
 
