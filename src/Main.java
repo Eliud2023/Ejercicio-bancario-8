@@ -2,6 +2,8 @@
 empezando a usar MÉTODOS,
 y también se recorrieron*/
 
+// Estoy haciendo mis primeras pruebas con Github
+
 import java.util.Scanner;
 
 public class Main {
